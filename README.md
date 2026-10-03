@@ -1,4 +1,4 @@
-# Hi, I'm Aziz Asaad 👋
+# I'm Aziz Asaad
 
 ### Senior Full-Stack Developer
 
@@ -8,7 +8,7 @@ My main stack is **Laravel + Next.js**, and I'm currently diving deeper into **S
 
 ---
 
-## 🚀 About Me
+## About Me
 
 -  Senior Full-Stack Developer
 -  Building applications with **Laravel, Next.js & TypeScript**
