@@ -10,13 +10,13 @@ My main stack is **Laravel + Next.js**, and I'm currently diving deeper into **S
 
 ## 🚀 About Me
 
-- 💻 Senior Full-Stack Developer
-- ⚡ Building applications with **Laravel, Next.js & TypeScript**
-- 🏗️ Interested in **System Design & Clean Architecture**
-- ☁️ Exploring **DevOps, Docker & Cloud Infrastructure**
-- 🗄️ Working with **MySQL, Redis & scalable backend architectures**
-- 🌍 Based in **Cairo, Egypt**
-- 📚 Always learning how to build **better, faster, and more scalable systems**
+-  Senior Full-Stack Developer
+-  Building applications with **Laravel, Next.js & TypeScript**
+-  Interested in **System Design & Clean Architecture**
+-  Exploring **DevOps, Docker & Cloud Infrastructure**
+-  Working with **MySQL, Redis & scalable backend architectures**
+-  Based in **Cairo, Egypt**
+-  Always learning how to build **better, faster, and more scalable systems**
 
 ---
 
@@ -44,7 +44,7 @@ My main stack is **Laravel + Next.js**, and I'm currently diving deeper into **S
 
 ---
 
-## 🔨 What I Build
+## What I Build
 
 I enjoy working on systems involving:
 
@@ -53,7 +53,6 @@ I enjoy working on systems involving:
 - Authentication & authorization systems
 - Background jobs and queues
 - Real-time notifications
-- AI integrations
 - Database optimization
 - Scalable application architecture
 - Cloud deployments
@@ -61,7 +60,7 @@ I enjoy working on systems involving:
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 ```text
 System Design
